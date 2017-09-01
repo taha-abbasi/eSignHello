@@ -1,0 +1,22 @@
+{
+  "name": "hellosign",
+  "version": "1.0.0",
+  "description": "E Signature Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Taha Abbasi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taha-abbasi/hellosign/issues"
+  },
+  "homepage": "https://github.com/taha-abbasi/hellosign#readme",
+  "dependencies": {
+    "hellosign-sdk": "^1.1.13"
+  }
+}
